@@ -42,7 +42,7 @@ session = fo.launch_app(dataset)
 
 2. Select the filter icon in the sample grid.
 
-![image](https://github.com/ehofesmann/filter-values-plugin/assets/21222883/6dbe3c31-e4af-4e75-8ffe-8e0a4ea8803f)
+![Screenshot from 2023-10-30 15-55-49](https://github.com/ehofesmann/filter-values-plugin/assets/21222883/bbed0b1c-c917-4bea-a48f-550ffa237dc9)
 
 
 3. Select the field by which to filter, copy and paste the value(s), and an
@@ -56,5 +56,5 @@ the `uniqueness` field and copy and paste these values:
 Then enter `,` as the delimiter and hit execute.
 
 
-![image](https://github.com/ehofesmann/filter-values-plugin/assets/21222883/a9d7b93c-0a55-46f3-9285-f492327033c5)
+![Screenshot from 2023-10-30 16-10-20](https://github.com/ehofesmann/filter-values-plugin/assets/21222883/247a533e-ba8b-44e2-a461-e7dff4e7013b)
 
