@@ -3,6 +3,8 @@
 A [FiftyOne plugin](https://docs.voxel51.com/plugins/index.html) for filtering
 a field of your FiftyOne dataset by one or multiple values simultaneously. 
 
+[filter_values.webm](https://github.com/ehofesmann/filter-values-plugin/assets/21222883/087ddb70-e19d-4060-9d58-2e004e5c9ed1)
+
 
 ### Installation
 
@@ -40,6 +42,8 @@ session = fo.launch_app(dataset)
 
 2. Select the filter icon in the sample grid.
 
+![image](https://github.com/ehofesmann/filter-values-plugin/assets/21222883/6dbe3c31-e4af-4e75-8ffe-8e0a4ea8803f)
+
 
 3. Select the field by which to filter, copy and paste the value(s), and an
    optional delimiter if a list of values was given. In this example, select
@@ -50,3 +54,7 @@ the `uniqueness` field and copy and paste these values:
 ```
 
 Then enter `,` as the delimiter and hit execute.
+
+
+![image](https://github.com/ehofesmann/filter-values-plugin/assets/21222883/457c01ca-4817-44a1-8493-75f6ae622ceb)
+
