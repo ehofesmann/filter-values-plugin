@@ -16,7 +16,7 @@ pip install fiftyone
 Then install the plugin and its dependencies:
 
 ```shell
-fiftyone plugins download https://github.com/ehofesmann/filter-values
+fiftyone plugins download https://github.com/ehofesmann/filter-values-plugin
 ```
 
 
