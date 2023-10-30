@@ -3,7 +3,11 @@
 A [FiftyOne plugin](https://docs.voxel51.com/plugins/index.html) for filtering
 a field of your FiftyOne dataset by one or multiple values simultaneously. 
 
-[filter_values.webm](https://github.com/ehofesmann/filter-values-plugin/assets/21222883/087ddb70-e19d-4060-9d58-2e004e5c9ed1)
+
+
+https://github.com/ehofesmann/filter-values-plugin/assets/21222883/5195638b-add6-466b-944d-1bd6c51369a2
+
+
 
 
 ### Installation
@@ -54,6 +58,14 @@ the `uniqueness` field and copy and paste these values:
 ```
 
 Then enter `,` as the delimiter and hit execute.
+
+
+
+
+https://github.com/ehofesmann/filter-values-plugin/assets/21222883/20a9d1aa-6931-4ed3-ae22-0d63843beca0
+
+
+https://github.com/ehofesmann/filter-values-plugin/assets/21222883/1dbd1f2d-ca0d-4a84-9035-8093ed393ffe
 
 
 ![Screenshot from 2023-10-30 16-10-20](https://github.com/ehofesmann/filter-values-plugin/assets/21222883/247a533e-ba8b-44e2-a461-e7dff4e7013b)
