@@ -1,0 +1,7 @@
+fiftyone:
+    version: '*'
+name: "@ehofesmann/filter_values"
+version: "1.0.0"
+description: Filter a field of your dataset by one or more values.
+operators:
+    - filter_values
