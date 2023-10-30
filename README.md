@@ -56,5 +56,5 @@ the `uniqueness` field and copy and paste these values:
 Then enter `,` as the delimiter and hit execute.
 
 
-![image](https://github.com/ehofesmann/filter-values-plugin/assets/21222883/457c01ca-4817-44a1-8493-75f6ae622ceb)
+![image](https://github.com/ehofesmann/filter-values-plugin/assets/21222883/a9d7b93c-0a55-46f3-9285-f492327033c5)
 
